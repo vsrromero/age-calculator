@@ -3,8 +3,6 @@ const content = document.getElementById('content');
 const result = document.getElementById('result');
 const btnCalculateAgain = document.getElementById('btn-calculate-again');
 
-btnCalculateAgain.classList.add('hidden');
-
 form.addEventListener('submit', (event) => {
 event.preventDefault();
 const age = document.getElementById('ano').value;
