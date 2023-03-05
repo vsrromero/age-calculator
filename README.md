@@ -12,4 +12,4 @@ You can access the deployed version of this application at netlify by visiting [
 
  ## Google Lighthouse
 
- <img src="./img/lighthouse.png">
+ <img src="./img/lighthouse.PNG">
